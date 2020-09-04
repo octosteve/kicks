@@ -1,0 +1,13 @@
+name: kicks
+version: 0.1.0
+
+authors:
+  - Steven Nunez steven.nunez@gmail.com
+
+crystal: 0.35.1
+
+license: MIT
+
+dependencies:
+  amqp-client:
+    github: cloudamqp/amqp-client.cr
